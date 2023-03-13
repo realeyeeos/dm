@@ -11,9 +11,6 @@ go get github.com/realeyeeos/dm
 达梦官方Go驱动包:https://package.dameng.com/eco/adapter/resource/go/dm-go-driver.zip  
 达梦官方论坛(提交bug):https://eco.dameng.com/community/question  
 
-### zorm  
-Go轻量ORM https://gitee.com/chunanyong/zorm 原生支持达梦数据库  
-
 ### DSN  
 dm://userName:password@127.0.0.1:5236?schema=DBName  
 用户名(userName)默认就是数据库的名称,达梦用户模式和数据库名称是对应的,也可以通过schema参数指定数据库  
